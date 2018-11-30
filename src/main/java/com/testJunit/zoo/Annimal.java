@@ -56,7 +56,7 @@ public class Annimal {
 		this.tatoo = tatoo;
 	}
 	
-	public Annimal getTatooFemale() {
+	public Annimal getFemale() {
 		return female;
 	}
 	public boolean checkFemale(Annimal newFemale) throws MyException {
